@@ -1,1 +1,16 @@
-work in progress....
+1. Run hello.js in console
+
+$node hello.js
+
+apachebite
+
+2.node index.js
+
+Server has started.
+
+3.Browse
+
+Upload : http://localhost:8080/upload
+Show : http://localhost:8080/show
+
+4. Entire code is picked up from this Tutorial : http://www.nodebeginner.org/
